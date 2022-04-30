@@ -1,0 +1,19 @@
+- To interact with the Smart Thermostat via the designed language,
+
+     run STP-CLI.py
+
+- ply.lex will need to be installed in order for the Lexer to function, so "pip install ply" if necessary.
+- In order to enter commands properly, follow the Design Specifications outlined in the Design Document or the Presentation
+
+
+Note: running other .py files will output nothing or only output test data for those specific components
+
+
+TEST-TOKENS.txt is the output of the customized sample data from the Lexer
+
+Other included files:
+
+Proposal docx is included, explaining the project's beginnings.
+Design Documentation docx and Hardware Control Map pdf followed, elaborating on some initial design and goals.
+STP.py, STPLexer.py, and STPParser.py are components, described in more detail in the Report.
+Report docx and Presentation pptx are the conclusions and take-aways from the project, including successes and challenges faced.
